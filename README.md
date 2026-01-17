@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **DevOps**
   
--  I use daily: .jsx, .py, .sql
+- 💻 I use daily: .jsx, .py, .sql
 
 - 💬 Ask me about **Django backend, React, JavaScript**
 
