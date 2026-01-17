@@ -10,9 +10,9 @@
 - 👯 I’m looking to collaborate on **cloude native project**
 
 - 🤝 I’m looking for help with **DevOps**
-- 
+  
 -  I use daily: .jsx, .py, .sql
--  
+
 - 💬 Ask me about **Django backend, React, JavaScript**
 
 - 📫 How to reach me **sethisarthak16@gmail.com**
